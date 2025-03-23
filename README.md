@@ -3,24 +3,54 @@
 </p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <!-- Visualizações -->
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=000000&label=Visualizações&labelColor=1E90FF" alt="Visualizações">
+
+  <!-- Seguidores -->
+  <a href="https://github.com/Davi-Stars?tab=followers">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Seguidores&labelColor=1E90FF" alt="Seguidores">
+  </a>
+
+  <!-- Estrelas -->
+  <a href="https://github.com/Davi-Stars?tab=stars">
+    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
+  </a>
+
+  <!-- Contribuições -->
+  <img src="https://img.shields.io/badge/Contribuições-000000?style=for-the-badge&logo=github&labelColor=1E90FF&message=120%2B" alt="Contribuições">
+</div>
+
+---
+
+### 📱 **Contato Profissional**
+**Precisa falar comigo?** Clique em qualquer um dos canais abaixo para entrar em contato diretamente:
+
+<div align="center" style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" width="120">
   </a>
 
   <!-- Gmail -->
   <a href="mailto:davicurso19@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" width="100">
   </a>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=Profile%20Views&labelColor=101010" alt="Profile Views">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5511917574470">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" alt="WhatsApp" width="130">
+  </a>
 
-  <!-- GitHub Followers -->
-  <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=Followers&labelColor=101010" alt="GitHub Followers">
+  <!-- Discord -->
+  <a href="https://discord.com/users/seusuario#1234">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord" width="110">
   </a>
 </div>
+
+---
+
+### 👨💻 **Perfil Técnico**
+[...] (restante do conteúdo permanece igual)
 
 ---
 
