@@ -122,18 +122,16 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ### 📊 **GitHub Insights**
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&count_private=true" 
-    alt="Estatísticas GitHub"
-  />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="background: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #1E90FF;">
+    <h3>Estatísticas</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF"/>
+  </div>
   
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
-    alt="Linguagens mais usadas"
-  />
+  <div style="background: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #1E90FF;">
+    <h3>Tecnologias</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF"/>
+  </div>
 </div>
 
 ---
@@ -141,28 +139,23 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 ### 📱 **Contato Profissional**
 
 <div align="center">
-  <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
+  <h3 style="text-align: center; margin-bottom: 15px;">Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
   
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    
+
     <a href="mailto:davicurso19@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    
+
     <a href="https://wa.me/5511917574470">
       <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
-    
+
     <a href="https://discord.com/users/seusuario#1234">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
   </div>
 </div>
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/snake/github-contribution-grid-snake.svg" alt="Contributions Snake" width="100%">
-</p>
