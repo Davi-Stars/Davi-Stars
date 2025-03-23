@@ -1,5 +1,3 @@
-É assim que ficou, ficou certo? Além disso, eu disse pra citar casualmente, através dos códigos, que as áreas que eu mais gostei durante toda minha vida e as que eu tenho conhecimento são Programação, Cibersegurança e Nuvem, não disse pra você citar os conhecimentos que tenho nelas. Além disso, não pedi pra que você citasse as minhas certificações. Além disso, tire isso         "🔍 Buscando minha primeira oportunidade profissional em TI" E mude isso Transformar ideias em soluções tecnológicas seguras e eficientes, pra isso: Tornar o impossível, possível. Ou algo assim. Após efetuar todas as mudanças necessárias, reenvie o código INTEIRO do README para que eu possa copiar e colar.
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
 </p>
