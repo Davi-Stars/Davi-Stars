@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Davi+Inácio+Ballestero;Fullstack+Developer;Cybersecurity+Learner;Cloud+Enthusiast" alt="Header Animation" />
 </p>
