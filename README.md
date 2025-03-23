@@ -3,42 +3,16 @@
 </p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=👁️%20Visualizações&labelColor=101010&logo=github" alt="Visualizações">
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=000000&label=Visualizações&labelColor=1E90FF" alt="Visualizações">
   <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=👥%20Seguidores&labelColor=101010" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Seguidores&labelColor=1E90FF" alt="Seguidores">
   </a>
   <a href="https://github.com/Davi-Stars?tab=stars">
-    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=⭐%20Estrelas&labelColor=101010" alt="Estrelas">
+    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
   </a>
 </div>
 
----
-
-### 👨💻 **Perfil Técnico**
-```python
-class SobreMim:
-    def __init__(self):
-        self.nome = "Davi Inácio"
-        self.idade = 17
-        self.paixoes = ["Programação", "Cibersegurança", "Nuvem"]
-        self.jornada = self._construir_jornada()
-        self.filosofia = "Transformar o impossível em possível"
-
-    def _construir_jornada(self):
-        return (
-            "🌟 Desde os 12 anos criando scripts em Lua para Roblox\n"
-            "🔒 Apaixonado por segurança digital desde meus primeiros freelas\n"
-            "☁️ Explorando os desafios da computação em nuvem\n"
-            "🚀 Sempre buscando novos horizontes tecnológicos"
-        )
-
-    def __repr__(self):
-        return f"{self.nome} | {self.idade} anos | Foco em: {', '.join(self.paixoes)}"
-
-dev = SobreMim()
 ```
-
----
 
 ### 🛠️ **Domínio Tecnológico**
 
@@ -138,30 +112,22 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ### 📱 **Contato Profissional**
 
-<div align="center">
-  <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
-  
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+**Precisa falar comigo?** Clique em qualquer um dos canais abaixo:
 
-    <a href="mailto:davicurso19@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+<div align="center" style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-    <a href="https://wa.me/5511917574470">
-      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
+  <a href="mailto:davicurso19@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-    <a href="https://discord.com/users/seusuario#1234">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </div>
+  <a href="https://wa.me/5511917574470">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+
+  <a href="https://discord.com/users/seusuario#1234">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/snake/github-contribution-grid-snake.svg" alt="Contributions Snake" width="100%">
-</p>
