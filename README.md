@@ -103,4 +103,3 @@ Solução customizada para automação de workflows administrativos em PMEs, com
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-```
