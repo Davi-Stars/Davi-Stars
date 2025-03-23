@@ -1,8 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Aqui está o código completo e otimizado para seu README.md, totalmente em português e integrando todas as informações do currículo:
-
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=500&lines=Davi+Inácio+Ballestero;Desenvolvedor+Full-Stack;Entusiasta+em+Segurança;Explorador+de+Nuvem" alt="Typing SVG" />
 </p>
