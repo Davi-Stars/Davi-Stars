@@ -3,44 +3,41 @@
 </p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=👁️%20Visualizações&logo=github" alt="Visualizações">
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=000000&label=Visualizações&labelColor=1E90FF" alt="Visualizações">
   <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=👥%20Seguidores" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Seguidores&labelColor=1E90FF" alt="Seguidores">
   </a>
   <a href="https://github.com/Davi-Stars?tab=stars">
-    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=⭐%20Estrelas" alt="Estrelas">
+    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
   </a>
 </div>
 
 ---
 
 ### 👨💻 **Perfil Técnico**
+
 ```python
-class SobreMim:
+class TechProfile:
     def __init__(self):
-        self.nome = "Davi Inácio"
-        self.idade = self.calcular_idade("2007-01-30")
-        self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
-        self.curiosidades = [
-            "Comecei com Lua criando mods para Roblox aos 12 anos",
-            "Já desenvolvi sistemas que processam milhares de dados",
-            "Product Owner da plataforma Symbee"
-        ]
+        self.idade = 17
+        self.formacao = {
+            "🎓 Graduação": "Análise e Desenvolvimento de Sistemas - UFBRA (2025-2027)",
+            "📚 Certificações": [
+                "AWS Foundations - Escola da Nuvem",
+                "Cybersecurity Essentials - Cisco",
+                "Desenvolvedor Web Java - Instituto PROA"
+            ]
+        }
+        self.habilidades = {
+            "☁️ Nuvem": ["AWS EC2/S3/RDS", "VPC", "Escalabilidade", "IAM", "CLI"],
+            "🛡️ Segurança": ["Análise de Vulnerabilidades", "Criptografia AES/RSA", "MITRE ATT&CK"],
+            "💻 Desenvolvimento": ["Java Spring Boot", "React.js", "Python Flask", "APIs RESTful", "MySQL"],
+            "🔧 Ferramentas": ["Docker", "Git/GitHub", "Grafana", "Bash/PowerShell"]
+        }
+        self.missao = "Transformar desafios em soluções tecnológicas seguras"
 
-    def calcular_idade(self, nascimento):
-        from datetime import date
-        return date.today().year - 2007 - ((date.today().month, date.today().day) < (1, 30))
+me = TechProfile()
 
-    def jornada(self):
-        return """
-        🎓 Cursando Análise e Desenvolvimento de Sistemas
-        🌱 Aprendizado contínuo em Cloud e Segurança
-        """
-
-    def motivacao(self):
-        return "Tornar o impossível, possível através da tecnologia"
-
-dev = SobreMim()
 ```
 
 ### 🛠️ **Domínio Tecnológico**
@@ -143,20 +140,24 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 <div align="center">
   <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
-  
+
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 
+    <!-- Email -->
     <a href="mailto:davicurso19@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 
+    <!-- WhatsApp -->
     <a href="https://wa.me/5511917574470">
       <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
 
+    <!-- Discord -->
     <a href="https://discord.com/users/seusuario#1234">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
