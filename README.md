@@ -3,14 +3,21 @@
 </p>
 
 <div align="center">
-  <!-- Botões Principais -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-inacio-ballestero)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicurso19@gmail.com)
-  
+  <!-- Botões de Contato -->
+  <a href="https://www.linkedin.com/in/davi-inacio-ballestero">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:davicurso19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
   <!-- Estatísticas -->
-  <br>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square)
-  [![GitHub Followers](https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF)](https://github.com/Davi-Stars)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square" alt="Profile views">
+    <a href="https://github.com/Davi-Stars?tab=followers">
+      <img src="https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF" alt="GitHub followers">
+    </a>
+  </p>
 </div>
 
 ---
