@@ -14,6 +14,54 @@
 
 ---
 
+class SobreMim:
+    def __init__(self):
+        self.nome = "Davi Inácio"
+        self.idade = self.calcular_idade("2007-01-30")
+        self.areas_atuacao = ["Programação", "Cibersegurança", "Nuvem"]
+        self.stack_tech = {
+            "💻 Programação": {
+                "Linguagens": ["Java", "Python", "JavaScript"],
+                "Frameworks": ["Spring Boot", "React", "Flask"],
+                "DB": ["MySQL", "MongoDB"]
+            },
+            "🛡️ Cibersegurança": {
+                "Habilidades": ["Análise de Vulnerabilidades", "Criptografia", "MITRE ATT&CK"],
+                "Ferramentas": ["Wireshark", "Nmap", "Metasploit"]
+            },
+            "☁️ Nuvem": {
+                "Provedores": ["AWS"],
+                "Serviços": ["EC2", "S3", "Lambda"],
+                "DevOps": ["Docker", "GitHub Actions"]
+            }
+        }
+        self.certificacoes = [
+            "AWS Foundations - Escola da Nuvem",
+            "Cybersecurity Essentials - Cisco",
+            "Desenvolvedor Web Java - PROA"
+        ]
+        self.curiosidades = [
+            "Comecei criando scripts em Lua para Roblox aos 12 anos",
+            "Já desenvolvi sistemas de automação para PMEs",
+            "Product Owner da plataforma Symbee"
+        ]
+
+    def calcular_idade(self, nascimento):
+        from datetime import date
+        hoje = date.today()
+        return hoje.year - 2007 - ((hoje.month, hoje.day) < (1, 30))
+
+    def jornada(self):
+        return f"""
+        🔍 Buscando minha primeira oportunidade profissional em TI
+        🎓 Cursando Análise e Desenvolvimento de Sistemas
+        🚀 Aprofundando conhecimentos em Cloud e DevOps
+        """
+
+    def motivacao(self):
+        return "Transformar ideias em soluções tecnológicas seguras e eficientes"
+
+dev = SobreMim()
 ```
 
 ### 🛠️ **Domínio Tecnológico**
