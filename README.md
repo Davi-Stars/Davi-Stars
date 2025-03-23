@@ -120,13 +120,18 @@ me = TechProfile()
 
 ### 🚀 **Destaques**
 
-[...] <!-- Seção de destaques mantida igual -->
+**🌟 Symbee**  
+`Product Owner | Java/React/MySQL`  
+Plataforma brasileira para conexão de desenvolvedores freelancers com empresas, incluindo sistema de publicação de projetos e gestão de oportunidades.
 
 ---
 
-### 📊 **GitHub Insights
+### 📊 **GitHub Insights**
 
-[...] <!-- Seção de estatísticas mantida igual -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF"/>
+</div>
 
 ---
 
