@@ -1,46 +1,21 @@
+É assim que ficou, ficou certo? Além disso, eu disse pra citar casualmente, através dos códigos, que as áreas que eu mais gostei durante toda minha vida e as que eu tenho conhecimento são Programação, Cibersegurança e Nuvem, não disse pra você citar os conhecimentos que tenho nelas. Além disso, não pedi pra que você citasse as minhas certificações. Além disso, tire isso         "🔍 Buscando minha primeira oportunidade profissional em TI" E mude isso Transformar ideias em soluções tecnológicas seguras e eficientes, pra isso: Tornar o impossível, possível. Ou algo assim. Após efetuar todas as mudanças necessárias, reenvie o código INTEIRO do README para que eu possa copiar e colar.
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
 </p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=👁️%20Visualizações&labelColor=101010&logo=github" alt="Visualizações">
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=000000&label=Visualizações&labelColor=1E90FF" alt="Visualizações">
   <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=👥%20Seguidores&labelColor=101010" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Seguidores&labelColor=1E90FF" alt="Seguidores">
   </a>
   <a href="https://github.com/Davi-Stars?tab=stars">
-    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=⭐%20Estrelas&labelColor=101010" alt="Estrelas">
+    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
   </a>
 </div>
 
 ---
 
-### 👨💻 **Perfil Técnico**
-```python
-class SobreMim:
-    def __init__(self):
-        self.nome = "Davi Inácio"
-        self.idade = 17
-        self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
-        
-    def bio(self):
-        return """
-        Um eterno curioso da tecnologia que começou criando scripts para Roblox aos 12 anos.
-        Das gambiarras iniciais em Lua até soluções profissionais em Java e Python,
-        sempre buscando transformar desafios em oportunidades.
-        """
-
-    def jornada(self):
-        return """
-        🚀 Atualmente mergulhado em:
-        - Construção de soluções cloud-first
-        - Proteção de sistemas contra ameaças digitais
-        - Desenvolvimento de APIs escaláveis
-        """
-
-    def motivacao(self):
-        return "Tornar o impossível, possível através da tecnologia"
-
-dev = SobreMim()
 ```
 
 ### 🛠️ **Domínio Tecnológico**
@@ -141,30 +116,22 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ### 📱 **Contato Profissional**
 
-<div align="center">
-  <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
-  
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+**Precisa falar comigo?** Clique em qualquer um dos canais abaixo:
 
-    <a href="mailto:davicurso19@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+<div align="center" style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-    <a href="https://wa.me/5511917574470">
-      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
+  <a href="mailto:davicurso19@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-    <a href="https://discord.com/users/seusuario#1234">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </div>
+  <a href="https://wa.me/5511917574470">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+
+  <a href="https://discord.com/users/seusuario#1234">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/snake/github-contribution-grid-snake.svg" alt="Contributions Snake" width="100%">
-</p>
