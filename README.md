@@ -122,17 +122,24 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ### 📊 **GitHub Insights**
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-  <div style="background: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #1E90FF;">
-    <h3>Estatísticas Gerais</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF"/>
-  </div>
+<p>
+  <img 
+    align="left" 
+    alt="Estatísticas GitHub" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&count_private=true" 
+  />
   
-  <div style="background: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #1E90FF;">
-    <h3>Linguagens Mais Usadas</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF"/>
-  </div>
-</div>
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+  />
+</p>
+
+<br clear="both"/>
 
 ---
 
