@@ -139,27 +139,23 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 ### 📱 **Contato Profissional**
 
 <div align="center">
-  <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
-
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-    <!-- LinkedIn -->
+  <h3 style="text-align: center; margin-bottom: 25px;">Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
     </a>
 
-    <!-- Email -->
     <a href="mailto:davicurso19@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
     </a>
 
-    <!-- WhatsApp -->
     <a href="https://wa.me/5511917574470">
-      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" alt="WhatsApp">
     </a>
 
-    <!-- Discord -->
     <a href="https://discord.com/users/seusuario#1234">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord">
     </a>
   </div>
 </div>
