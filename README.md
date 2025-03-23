@@ -2,21 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
 </p>
 
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <!-- Botões Principais -->
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:davicurso19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
   </a>
 
-  <!-- Estatísticas -->
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=Profile+Views" alt="Visualizações do perfil">
-  
+  <!-- Gmail -->
+  <a href="mailto:davicurso19@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail">
+  </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=Profile%20Views&labelColor=101010" alt="Profile Views">
+
+  <!-- GitHub Followers -->
   <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Seguidores no GitHub">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=Followers&labelColor=101010" alt="GitHub Followers">
   </a>
 </div>
 
