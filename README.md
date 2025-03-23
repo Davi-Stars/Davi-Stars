@@ -1,3 +1,48 @@
+(Due to technical issues, the search service is temporarily unavailable.)
+
+Aqui está o README reformulado com suas solicitações:
+
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
+</p>
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-inacio-ballestero)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicurso19@gmail.com)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square)
+  [![GitHub Followers](https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF)](https://github.com/Davi-Stars)
+</div>
+
+---
+
+### 👨💻 **Perfil Técnico**
+```python
+class TechProfile:
+    def __init__(self):
+        self.idade = 17
+        self.formacao = {
+            "🎓 Graduação": "Análise e Desenvolvimento de Sistemas - UFBRA (2025-2027)",
+            "📚 Certificações": [
+                "AWS Foundations - Escola da Nuvem",
+                "Cybersecurity Essentials - Cisco",
+                "Desenvolvedor Web Java - Instituto PROA"
+            ]
+        }
+        self.habilidades = {
+            "☁️ Nuvem": ["AWS EC2/S3/RDS", "VPC", "Escalabilidade", "IAM", "CLI"],
+            "🛡️ Segurança": ["Análise de Vulnerabilidades", "Criptografia AES/RSA", "MITRE ATT&CK"],
+            "💻 Desenvolvimento": ["Java Spring Boot", "React.js", "Python Flask", "APIs RESTful", "MySQL"],
+            "🔧 Ferramentas": ["Docker", "Git/GitHub", "Grafana", "Bash/PowerShell"]
+        }
+        self.missao = "Transformar desafios em soluções tecnológicas seguras"
+
+me = TechProfile()
+```
+
+---
+
 ### 🛠️ **Domínio Tecnológico**
 
 **Front-End**  
@@ -55,3 +100,38 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-EF2D5E?style=flat-square&logo=eclipseide&logoColor=white)
+
+---
+
+### 📜 **Trajetória**
+
+| Curso | Instituição | Período |
+|-------|-------------|---------|
+| Análise e Desenvolvimento de Sistemas | UFBRA | 2025-2027 |
+| Formação em Cibersegurança (160h) | SENAI-SP | 2024 |
+| AWS Foundations | Escola da Nuvem | 2024 |
+| Cybersecurity Essentials | Cisco Networking Academy | 2023 |
+
+---
+
+### 🚀 **Destaques**
+
+**🌟 Symbee**  
+`Product Owner | Java/React/MySQL`  
+Plataforma brasileira para conexão de desenvolvedores freelancers com empresas, incluindo sistema de publicação de projetos e gestão de oportunidades.
+
+---
+
+### 📊 **GitHub Insights**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Stars&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Stars&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1E90FF"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+```
