@@ -157,9 +157,3 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github.com/Davi-Stars/Davi-Stars/blob/output/github-contribution-skyline.svg" alt="GitHub Skyline" width="100%">
-</p>
