@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ### 👨💻 Sobre Mim
 ```python
 class DevDavi:
