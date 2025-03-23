@@ -3,63 +3,42 @@
 </p>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=000000&label=Visualizações&labelColor=1E90FF" alt="Visualizações">
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=👁️%20Visualizações&labelColor=101010&logo=github" alt="Visualizações">
   <a href="https://github.com/Davi-Stars?tab=followers">
-    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Seguidores&labelColor=1E90FF" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=👥%20Seguidores&labelColor=101010" alt="Seguidores">
   </a>
   <a href="https://github.com/Davi-Stars?tab=stars">
-    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
+    <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=1E90FF&label=⭐%20Estrelas&labelColor=101010" alt="Estrelas">
   </a>
 </div>
 
 ---
 
+### 👨💻 **Perfil Técnico**
+```python
 class SobreMim:
     def __init__(self):
         self.nome = "Davi Inácio"
-        self.idade = self.calcular_idade("2007-01-30")
-        self.areas_atuacao = ["Programação", "Cibersegurança", "Nuvem"]
-        self.stack_tech = {
-            "💻 Programação": {
-                "Linguagens": ["Java", "Python", "JavaScript"],
-                "Frameworks": ["Spring Boot", "React", "Flask"],
-                "DB": ["MySQL", "MongoDB"]
-            },
-            "🛡️ Cibersegurança": {
-                "Habilidades": ["Análise de Vulnerabilidades", "Criptografia", "MITRE ATT&CK"],
-                "Ferramentas": ["Wireshark", "Nmap", "Metasploit"]
-            },
-            "☁️ Nuvem": {
-                "Provedores": ["AWS"],
-                "Serviços": ["EC2", "S3", "Lambda"],
-                "DevOps": ["Docker", "GitHub Actions"]
-            }
-        }
-        self.certificacoes = [
-            "AWS Foundations - Escola da Nuvem",
-            "Cybersecurity Essentials - Cisco",
-            "Desenvolvedor Web Java - PROA"
-        ]
-        self.curiosidades = [
-            "Comecei criando scripts em Lua para Roblox aos 12 anos",
-            "Já desenvolvi sistemas de automação para PMEs",
-            "Product Owner da plataforma Symbee"
-        ]
-
-    def calcular_idade(self, nascimento):
-        from datetime import date
-        hoje = date.today()
-        return hoje.year - 2007 - ((hoje.month, hoje.day) < (1, 30))
+        self.idade = 17
+        self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
+        
+    def bio(self):
+        return """
+        Um eterno curioso da tecnologia que começou criando scripts para Roblox aos 12 anos.
+        Das gambiarras iniciais em Lua até soluções profissionais em Java e Python,
+        sempre buscando transformar desafios em oportunidades.
+        """
 
     def jornada(self):
-        return f"""
-        🔍 Buscando minha primeira oportunidade profissional em TI
-        🎓 Cursando Análise e Desenvolvimento de Sistemas
-        🚀 Aprofundando conhecimentos em Cloud e DevOps
+        return """
+        🚀 Atualmente mergulhado em:
+        - Construção de soluções cloud-first
+        - Proteção de sistemas contra ameaças digitais
+        - Desenvolvimento de APIs escaláveis
         """
 
     def motivacao(self):
-        return "Transformar ideias em soluções tecnológicas seguras e eficientes"
+        return "Tornar o impossível, possível através da tecnologia"
 
 dev = SobreMim()
 ```
@@ -162,22 +141,30 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ### 📱 **Contato Profissional**
 
-**Precisa falar comigo?** Clique em qualquer um dos canais abaixo:
+<div align="center">
+  <h3>Precisa falar comigo? Clique em qualquer canal abaixo:</h3>
+  
+  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
 
-<div align="center" style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+    <a href="mailto:davicurso19@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 
-  <a href="mailto:davicurso19@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+    <a href="https://wa.me/5511917574470">
+      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
 
-  <a href="https://wa.me/5511917574470">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-
-  <a href="https://discord.com/users/seusuario#1234">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+    <a href="https://discord.com/users/seusuario#1234">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </div>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/snake/github-contribution-grid-snake.svg" alt="Contributions Snake" width="100%">
+</p>
