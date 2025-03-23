@@ -3,11 +3,12 @@
 </p>
 
 <div align="center">
+  <!-- Botões Principais -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-inacio-ballestero)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicurso19@gmail.com)
   
-  <br> <!-- Quebra de linha para separar os badges -->
-  
+  <!-- Estatísticas -->
+  <br>
   ![Profile Views](https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square)
   [![GitHub Followers](https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF)](https://github.com/Davi-Stars)
 </div>
