@@ -1,8 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Aqui está o README reformulado com suas solicitações:
-
-```md
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
 </p>
