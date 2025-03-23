@@ -6,6 +6,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-inacio-ballestero)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicurso19@gmail.com)
   
+  <br>
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square)
   [![GitHub Followers](https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF)](https://github.com/Davi-Stars)
 </div>
@@ -129,4 +131,3 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 <p align="center">
   <img src="https://raw.githubusercontent.com/Davi-Stars/Davi-Stars/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-```
