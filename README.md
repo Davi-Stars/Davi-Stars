@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/github/stars/Davi-Stars?style=for-the-badge&logo=github&color=000000&label=Estrelas&labelColor=1E90FF" alt="Estrelas">
   </a>
 
-  <!-- Contribuições -->
-  <img src="https://img.shields.io/badge/Contribuições-000000?style=for-the-badge&logo=github&labelColor=1E90FF&message=120%2B" alt="Contribuições">
-</div>
-
 ---
 
 ### 📱 **Contato Profissional**
