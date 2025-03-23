@@ -2,22 +2,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Cibersegurança;Arquiteto+de+Nuvem+AWS" alt="Header Animation" />
 </p>
 
-<div align="center">
-  <!-- Botões de Contato -->
-  <a href="https://www.linkedin.com/in/davi-inacio-ballestero">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <!-- Botões Principais -->
+  <a href="https://www.linkedin.com/in/davi-inacio-ballestero" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
   </a>
+  
   <a href="mailto:davicurso19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail">
   </a>
 
   <!-- Estatísticas -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Davi-Stars&color=1E90FF&style=flat-square" alt="Profile views">
-    <a href="https://github.com/Davi-Stars?tab=followers">
-      <img src="https://img.shields.io/github/followers/Davi-Stars?logo=github&style=flat-square&color=1E90FF" alt="GitHub followers">
-    </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Davi-Stars&style=for-the-badge&color=1E90FF&label=Profile+Views" alt="Visualizações do perfil">
+  
+  <a href="https://github.com/Davi-Stars?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Seguidores no GitHub">
+  </a>
 </div>
 
 ---
