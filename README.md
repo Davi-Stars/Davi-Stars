@@ -46,11 +46,6 @@
 ---
 
 ### 👨💻 **Perfil Técnico**
-[...] (restante do conteúdo permanece igual)
-
----
-
-### 👨💻 **Perfil Técnico**
 ```python
 class TechProfile:
     def __init__(self):
