@@ -114,34 +114,34 @@ dev = SobreMim()
     <th width="10%">Período</th>
   </tr>
   <tr>
-    <td>Primeiro Aluno Orientado</td>
-    <td>Mentoria</td>
-    <td>Didática · Paciência · Comunicação técnica</td>
-    <td>2023</td>
+    <td>Primeiros passos na Programação</td>
+    <td>Descoberta</td>
+    <td>Lógica de programação · Criatividade · Resolução de problemas</td>
+    <td>2019</td>
   </tr>
   <tr style="background-color: #0d1117;">
-    <td>Projeto de Automação Completo</td>
-    <td>Primeiro Projeto</td>
-    <td>Python · Resolução de problemas · Gestão de tempo</td>
-    <td>2022</td>
-  </tr>
-  <tr>
     <td>Início no Instituto PROA</td>
     <td>Formação Técnica</td>
-    <td>Java · Trabalho em equipe · Metodologias ágeis</td>
+    <td>Java · Trabalho em equipe · Gestão de projetos</td>
     <td>2024</td>
   </tr>
+  <tr>
+    <td>Primeiro Jogo no Roblox</td>
+    <td>Desenvolvimento Criativo</td>
+    <td>Lua · Design de sistemas · Persistência · Modelagem 3D</td>
+    <td>2020</td>
+  </tr>
   <tr style="background-color: #0d1117;">
-    <td>Primeiro Projeto Freela</td>
-    <td>Experiência Profissional</td>
-    <td>Autonomia · Flask · Gestão de clientes</td>
+    <td>Primeiro Aluno Orientado</td>
+    <td>Mentoria</td>
+    <td>Didática · Paciência · Comunicação técnica · Liderança</td>
     <td>2023</td>
   </tr>
   <tr>
-    <td>Certificação Cloud AWS</td>
-    <td>Cloud Computing</td>
-    <td>Resiliência · Arquitetura escalável · IAM</td>
-    <td>2024</td>
+    <td>Primeiro Projeto Freela</td>
+    <td>Experiência Profissional</td>
+    <td>Autonomia · Python · Automação · Gestão de tempo</td>
+    <td>2023</td>
   </tr>
 </table>
 
