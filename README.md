@@ -140,8 +140,6 @@ Plataforma brasileira para conexão de desenvolvedores freelancers com empresas,
 
 ---
 
----
-
 ### 📱 **Contato Profissional**
 
 **Precisa falar comigo?**  
