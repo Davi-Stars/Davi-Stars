@@ -104,15 +104,46 @@ dev = SobreMim()
 
 ---
 
-### 📜 **Trajetória**
+### 📜 **Trajetória Evolutiva**
 
-| Curso | Instituição | Período |
-|-------|-------------|---------|
-| Análise e Desenvolvimento de Sistemas | UFBRA | 2025-2027 |
-| Desenvolvedor Web Java | Instituto PROA | 2024-2025 |
-| Formação em Cibersegurança (160h) | SENAI-SP | 2024 |
-| AWS Foundations | Escola da Nuvem | 2024 |
-| Cybersecurity Essentials | Cisco Networking Academy | 2023 |
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #1E90FF; color: white;">
+    <th width="25%">Marco</th>
+    <th width="20%">Tipo</th>
+    <th width="40%">Habilidades Desenvolvidas</th>
+    <th width="15%">Período</th>
+  </tr>
+  <tr>
+    <td>Primeiros passos na Programação</td>
+    <td>Descoberta</td>
+    <td>Lógica de programação · Criatividade · Resolução de problemas</td>
+    <td>2019</td>
+  </tr>
+  <tr style="background-color: #0d1117;">
+    <td>Início no Instituto PROA</td>
+    <td>Formação Técnica</td>
+    <td>Java · Trabalho em equipe · Gestão de projetos</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>Primeiro Projeto Freela</td>
+    <td>Experiência Profissional</td>
+    <td>Autonomia · Comunicação · Python · Automação</td>
+    <td>2023</td>
+  </tr>
+  <tr style="background-color: #0d1117;">
+    <td>Certificação Cybersecurity</td>
+    <td>Especialização</td>
+    <td>Pensamento crítico · Ética · Análise de riscos</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>Certificação AWS Foundations</td>
+    <td>Cloud Computing</td>
+    <td>Resiliência · Visão arquitetural · Gestão de recursos</td>
+    <td>2024</td>
+  </tr>
+</table>
 
 ---
 
