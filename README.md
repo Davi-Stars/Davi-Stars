@@ -34,7 +34,7 @@ class SobreMim:
     def jornada(self):
         return """
         🎓 Cursando Análise e Desenvolvimento de Sistemas
-        🌱 Aprendizado contínuo em Cloud e Segurança
+        🌱 Aprendizado contínuo em Programação, Cloud e Cibersegurança
         """
 
     def motivacao(self):
