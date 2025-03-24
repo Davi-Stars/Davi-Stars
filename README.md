@@ -117,7 +117,7 @@ dev = SobreMim()
     <td>Primeiros passos na Programação</td>
     <td>Descoberta</td>
     <td>Lógica de programação · Criatividade · Resolução de problemas</td>
-    <td style="text-align: right;">2019</td>
+    <td style="text-align: right;">   2019</td>
   </tr>
   <tr style="background-color: #0d1117;">
     <td>Início no Instituto PROA</td>
