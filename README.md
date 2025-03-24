@@ -106,41 +106,41 @@ dev = SobreMim()
 
 ### 📜 **Trajetória Evolutiva**
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
+<table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr style="background-color: #1E90FF; color: white;">
-    <th width="25%">Marco</th>
+    <th width="30%">Marco</th>
     <th width="20%">Tipo</th>
     <th width="40%">Habilidades Desenvolvidas</th>
-    <th width="15%">Período</th>
+    <th width="10%">Período</th>
   </tr>
   <tr>
-    <td>Primeiros passos na Programação</td>
-    <td>Descoberta</td>
-    <td>Lógica de programação · Criatividade · Resolução de problemas</td>
-    <td>2019</td>
-  </tr>
-  <tr style="background-color: #0d1117;">
-    <td>Início no Instituto PROA</td>
-    <td>Formação Técnica</td>
-    <td>Java · Trabalho em equipe · Gestão de projetos</td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>Primeiro Projeto Freela</td>
-    <td>Experiência Profissional</td>
-    <td>Autonomia · Comunicação · Python · Automação</td>
+    <td>Primeiro Aluno Orientado</td>
+    <td>Mentoria</td>
+    <td>Didática · Paciência · Comunicação técnica</td>
     <td>2023</td>
   </tr>
   <tr style="background-color: #0d1117;">
-    <td>Certificação Cybersecurity</td>
-    <td>Especialização</td>
-    <td>Pensamento crítico · Ética · Análise de riscos</td>
-    <td>2024</td>
+    <td>Projeto de Automação Completo</td>
+    <td>Primeiro Projeto</td>
+    <td>Python · Resolução de problemas · Gestão de tempo</td>
+    <td>2022</td>
   </tr>
   <tr>
-    <td>Certificação AWS Foundations</td>
+    <td>Início no Instituto PROA</td>
+    <td>Formação Técnica</td>
+    <td>Java · Trabalho em equipe · Metodologias ágeis</td>
+    <td>2024</td>
+  </tr>
+  <tr style="background-color: #0d1117;">
+    <td>Primeiro Projeto Freela</td>
+    <td>Experiência Profissional</td>
+    <td>Autonomia · Flask · Gestão de clientes</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Certificação Cloud AWS</td>
     <td>Cloud Computing</td>
-    <td>Resiliência · Visão arquitetural · Gestão de recursos</td>
+    <td>Resiliência · Arquitetura escalável · IAM</td>
     <td>2024</td>
   </tr>
 </table>
