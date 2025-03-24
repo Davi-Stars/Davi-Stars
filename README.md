@@ -12,7 +12,7 @@
   </a>
 </div>
 
-```
+---
 
 ### 👨💻 **Perfil Técnico**
 ```python
