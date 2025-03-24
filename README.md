@@ -23,7 +23,7 @@ class SobreMim:
         self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
         self.curiosidades = [
             "Comecei com Lua criando scripts para Roblox aos 12 anos",
-            "Já desenvolvi sistemas que processam milhares de dados",
+            "Já desenvolvi sistemas que ajudam milhares de pessoas",
             "Product Owner da plataforma Symbee"
         ]
 
