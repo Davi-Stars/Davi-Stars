@@ -117,31 +117,31 @@ dev = SobreMim()
     <td>Primeiros passos na Programação</td>
     <td>Descoberta</td>
     <td>Lógica de programação · Criatividade · Resolução de problemas</td>
-    <td style="text-align: right;">‎ ‎ ‎ 2019</td>
+    <td style="text-align: right;">‎ ‎ ‎ ‎ 2019</td>
   </tr>
   <tr style="background-color: #0d1117;">
     <td>Início no Instituto PROA</td>
     <td>Formação Técnica</td>
     <td>Java · Trabalho em equipe · Gestão de projetos</td>
-    <td style="text-align: right;">2024</td>
+    <td style="text-align: right;">‎ ‎ ‎ ‎ 2024</td>
   </tr>
   <tr>
     <td>Primeiro Jogo no Roblox</td>
     <td>Desenvolvimento Criativo</td>
     <td>Lua · Design de sistemas · Persistência · Modelagem 3D</td>
-    <td style="text-align: right;">2020</td>
+    <td style="text-align: right;">‎ ‎ ‎ ‎ 2020</td>
   </tr>
   <tr style="background-color: #0d1117;">
     <td>Primeiro Aluno Orientado</td>
     <td>Mentoria</td>
     <td>Didática · Paciência · Comunicação técnica · Liderança</td>
-    <td style="text-align: right;">2021</td>
+    <td style="text-align: right;">‎ ‎ ‎ ‎ 2021</td>
   </tr>
   <tr>
     <td>Primeiro Projeto Freela</td>
     <td>Experiência Profissional</td>
     <td>Autonomia · Python · Automação · Gestão de tempo</td>
-    <td style="text-align: right;">2023</td>
+    <td style="text-align: right;">‎ ‎ ‎ ‎ 2023</td>
   </tr>
 </table>
 
