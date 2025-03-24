@@ -15,28 +15,32 @@
 ---
 
 ### 👨💻 **Perfil Técnico**
-
 ```python
-class TechProfile:
+class SobreMim:
     def __init__(self):
-        self.idade = 17
-        self.formacao = {
-            "🎓 Graduação": "Análise e Desenvolvimento de Sistemas - UFBRA (2025-2027)",
-            "📚 Certificações": [
-                "AWS Foundations - Escola da Nuvem",
-                "Cybersecurity Essentials - Cisco",
-                "Desenvolvedor Web Java - Instituto PROA"
-            ]
-        }
-        self.habilidades = {
-            "☁️ Nuvem": ["AWS EC2/S3/RDS", "VPC", "Escalabilidade", "IAM", "CLI"],
-            "🛡️ Segurança": ["Análise de Vulnerabilidades", "Criptografia AES/RSA", "MITRE ATT&CK"],
-            "💻 Desenvolvimento": ["Java Spring Boot", "React.js", "Python Flask", "APIs RESTful", "MySQL"],
-            "🔧 Ferramentas": ["Docker", "Git/GitHub", "Grafana", "Bash/PowerShell"]
-        }
-        self.missao = "Transformar desafios em soluções tecnológicas seguras"
+        self.nome = "Davi Inácio"
+        self.idade = self.calcular_idade("2007-01-30")
+        self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
+        self.curiosidades = [
+            "Comecei com Lua criando mods para Roblox aos 12 anos",
+            "Já desenvolvi sistemas que processam milhares de dados",
+            "Product Owner da plataforma Symbee"
+        ]
 
-me = TechProfile()
+    def calcular_idade(self, nascimento):
+        from datetime import date
+        return date.today().year - 2007 - ((date.today().month, date.today().day) < (1, 30))
+
+    def jornada(self):
+        return """
+        🎓 Cursando Análise e Desenvolvimento de Sistemas
+        🌱 Aprendizado contínuo em Cloud e Segurança
+        """
+
+    def motivacao(self):
+        return "Tornar o impossível, possível através da tecnologia"
+
+dev = SobreMim()
 
 ```
 
