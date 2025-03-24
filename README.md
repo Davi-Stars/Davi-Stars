@@ -22,7 +22,7 @@ class SobreMim:
         self.idade = self.calcular_idade("2007-01-30")
         self.paixoes = ["💻 Programação", "🛡️ Cibersegurança", "☁️ Nuvem"]
         self.curiosidades = [
-            "Comecei com Lua criando mods para Roblox aos 12 anos",
+            "Comecei com Lua criando scripts para Roblox aos 12 anos",
             "Já desenvolvi sistemas que processam milhares de dados",
             "Product Owner da plataforma Symbee"
         ]
